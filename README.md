@@ -1,4 +1,4 @@
-# 基于BpmnJs的流程设计器校验实现
+# 基于bpmn-js的流程设计器校验实现
 
 ## [bpmnlint](https://github.com/bpmn-io/bpmnlint)简介
 
