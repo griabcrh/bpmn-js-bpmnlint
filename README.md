@@ -345,5 +345,5 @@ getUrlParam = (name) => {
 
 
 
-可参考项目：
+可参考项目：https://github.com/griabcrh/react_bpmnjs
 
